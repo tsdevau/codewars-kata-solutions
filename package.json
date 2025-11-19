@@ -30,7 +30,7 @@
     "ramda": "^0.30.0",
     "tsconfig-paths": "^4.2.0",
     "underscore": "^1.13.6",
-    "vitest": "^1.6.0"
+    "vitest": "^1.6.1"
   },
   "devDependencies": {
     "@types/lodash": "^4.17.4",
